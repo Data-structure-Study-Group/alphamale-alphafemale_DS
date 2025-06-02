@@ -1,5 +1,9 @@
-# alphamale-alphafemale_DS
-자료구조 스터디
+# 🚀 [Alphamale-Alphafemale_DS] : 자료구조 스터디 🚀
+
+<p align="center">
+  <img src="poster.jpg" width="400px" />
+</p>
+
 # 💻 Data Structure-study
 
 ## 🗒️ 스터디 방식
@@ -11,11 +15,12 @@
 
 #### 2. 단체 알고리즘 미션 방식
 - `매주 월요일` 새로운 미션이 올라옵니다.
-- 미션을 해결하고 `일요일 저녁`까지 본인의 폴더 내, '미션' > '날짜-주차' 형식의 폴더에 코드들을 업로드 합니다. (ex :'2021-08-02주차')
+- 미션을 해결하고 `일요일 저녁`까지 본인의 폴더 내, '미션' > '날짜-주차' 형식의 폴더에 코드들을 업로드 합니다. (ex : '2021-08-02주차')
+
 <br>
 
-## 개인 폴더 만드는법
-1. 오른쪽 상단 fork 누른 뒤 개인 repositories에 넣기
-2. 개인 repositories에 있는 algorithm-study에 들어가서 add_file
-3. create new file 누른 후 (자신의 이름/readme.md)치고 pull requests로 업로드
-4. pull requests에서 merge 눌러 적용!!
+## 🧷 개인 폴더 만드는 법
+1. 오른쪽 상단 `Fork` 누른 뒤 개인 repositories에 넣기  
+2. 개인 repositories에 있는 `algorithm-study`에 들어가서 `Add file`  
+3. `Create new file` 누른 후 `(자신의 이름/readme.md)` 경로 입력 후 코드 작성  
+4. `Pull requests`에서 `Merge` 눌러 적용!
